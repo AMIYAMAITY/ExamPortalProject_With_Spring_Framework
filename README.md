@@ -20,6 +20,13 @@ effective knowledge, using this fast and easy to access process.
               Download this zip file and extract this file. It's complete exam portal project.
         
         ### Step-3:
-              After extract you must see Imported files -> database -> .sql file this file you have to import to mysql database
+              After extract must you see Imported files -> database -> .sql file this file you have to import to mysql database
               and make sure your database name must be "BCRECExamPortal".
+              
+        ### Step-4:
+              After all step done you have to do one more step.
+              After extract must you see   BCRECExamPortal->src->java->com->examportal->email->SendMailTLS.java
+              and this file you have to edit just put your emailId and password (it is need for mail verification and send mail to user).
+              
+       Whenever all steps are done you can run your website and enjoy it.       
         
