@@ -11,6 +11,9 @@ The software provides a comprehensive set of features to enhance the operational
 Now, anyone one cracks a technical interview process comfortably just by learning the
 effective knowledge, using this fast and easy to access process.
 
+Index Page:
+![index page](https://github.com/AMIYAMAITY/ExamPortalProject_With_Spring_Framework/blob/master/Screenshot_20181128_005852.png)
+
 ## How to run this project on your local machine
 
         ### Step-1:
